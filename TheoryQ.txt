@@ -1,0 +1,23 @@
+1.
+a) False, the firmare has to be installed once.
+b) True
+c) False, every firmware is different for each specific purpose
+d) False, firmware is a type of specific program
+e) False
+f) True
+
+2.
+a) Write an existing program file, 
+d) Check that the robot is plugged in and turned on,
+b) Press the dark grey button on the Robot,
+g) Open the robot menu and select Compile and Download,
+f) Press start button on the program debug window,
+
+c) X
+e) X
+
+3. Role of a programmer: Identifying the task, planning out a solution, 
+                         and then explaining to the robot what it needs to do to reach the goal.
+
+4. Get Into College in the morning: 1) Wake up. 2)Shower, get dressed, eat breakfast. 3) Make lunchbox. 4) Pack bag. 
+                                    5) Walk to train/bus. 6) Walk to college. 7) Check the class timetable and find classroom.
